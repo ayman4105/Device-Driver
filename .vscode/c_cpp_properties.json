@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/lib/modules/6.8.0-87-generic/build/include"
+            ]
+        }
+    ],
+    "version": 4
+}
